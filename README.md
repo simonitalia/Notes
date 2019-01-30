@@ -18,6 +18,7 @@ This iOS app is developed as a self "challenge" project in the iBook tutorial se
 
 - NotificationCenter
 
+- Segues (includuing saveUnwind)
 
 
 # Stretch goals
@@ -30,6 +31,8 @@ Some features included are not part of the guided project, but are added as stre
 - Pass data between ViewContollers via Segue (self imposed)
 
 - NotificationCenter to update Keyboard insets when KB is shown/hidden (suggested)
+
+- App icons (self-imposed)
 
 # Completed
 January, 2019
