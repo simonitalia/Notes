@@ -18,7 +18,7 @@ This iOS app is developed as a self "challenge" project in the iBook tutorial se
 
 - NotificationCenter
 
-- Segues (includuing saveUnwind)
+- Segues (including saveUnwind)
 
 
 # Stretch goals
