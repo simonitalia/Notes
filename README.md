@@ -5,7 +5,7 @@ Notes
 Hacking with Swift
 
 # Education supplier
-This iOS app is developed as a self "challenge" project in the iBook tutorial series "Hacking with Swift" by Paul Hudson. Self challenges are apps developed from scratch, solo and un-assisted. The requirements are provided by the instructor in text base, list form. Some helpful hints are sometimes provided.
+This iOS app is developed as a "self challenge" project in the iBook tutorial "Hacking with Swift" which forms part of the "Hacking with Swift" tutorial series, authored by Paul Hudson. Self challenges are apps developed from scratch, solo and un-assisted. The requirements are provided by the instructor in text base, list form. Some helpful hints are sometimes provided.
 
 # Topics / milestones
 - Custom classes
