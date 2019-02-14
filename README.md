@@ -41,9 +41,9 @@ Go ahead and try now. Remember: don’t fret if it sounds hard – it’s suppos
 
 </br> <strong> Additional hints: </strong> </br>
 Here are some hints in case you hit a problem:
-• You could represent each note using a custom Note class if you wanted, but to begin with perhaps just make each note a string that gets stored in a notes array. 
-• If you do intend to go down the custom class route for notes, make sure you conform to NSCoding and implement its two required methods – you might need to re-read project 12.
-• Make sure you use NotificationCenter to update the insets for your detail text view when the keyboard is shown or hidden.
+• You could represent each note using a custom Note class if you wanted, but to begin with perhaps just make each note a string that gets stored in a notes array. </br>
+• If you do intend to go down the custom class route for notes, make sure you conform to NSCoding and implement its two required methods – you might need to re-read project 12. </br>
+• Make sure you use NotificationCenter to update the insets for your detail text view when the keyboard is shown or hidden. </br>
 • Try changing the tintColor property in Interface Builder. This controls the color of icons in the navigation bar and toolbar, amongst other things.
 
 
