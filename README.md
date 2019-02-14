@@ -23,6 +23,8 @@ Self challenge
 
 - Segues (including saveUnwind)
 
+- Git / Github
+
 # Project goals / instructions
 Apple sets an extremely high standard for apps, and encourages us all to follow suit by releasing a vast collection of powerful, flexible APIs to work with.
 
@@ -59,6 +61,9 @@ Some features included are not part of the guided project, but are added as stre
 - NotificationCenter to update Keyboard insets when KB is shown/hidden (suggested)
 
 - App icons (self-imposed)
+
+- Source control with git (local) / github (remote) (self imposed)
+
 
 # Completed
 January, 2019
