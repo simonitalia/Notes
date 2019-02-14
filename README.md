@@ -40,7 +40,7 @@ Note: the official Apple Notes app supports rich text input and media; don’t w
 Go ahead and try now. Remember: don’t fret if it sounds hard – it’s supposed to stretch you.
 
 </br> <strong> Additional hints: </strong> </br>
-Here are some hints in case you hit a problem:
+Here are some hints in case you hit a problem: </br>
 • You could represent each note using a custom Note class if you wanted, but to begin with perhaps just make each note a string that gets stored in a notes array. </br>
 • If you do intend to go down the custom class route for notes, make sure you conform to NSCoding and implement its two required methods – you might need to re-read project 12. </br>
 • Make sure you use NotificationCenter to update the insets for your detail text view when the keyboard is shown or hidden. </br>
