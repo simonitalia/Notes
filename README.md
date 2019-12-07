@@ -1,6 +1,12 @@
 # Application Name
 Notes
 
+# Objective 
+The aim of this app is to create a List of notes, similar to Apple's Notes app.
+
+# Demo
+![Demo](Demo_07122019.gif)
+
 # Course
 Hacking with Swift
 
